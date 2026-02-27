@@ -25,3 +25,16 @@ User taps Roll button
 
 ## 🛠️ How to Run
 1. Clone the repository:
+   git clone https://github.com/Ananyahkumar/Dice_Roller.git
+2. Open in Android Studio
+3. Run on emulator or physical device
+
+## 📚 Concepts Used
+- Composable functions
+- State management
+- Button interaction
+- UI recomposition
+
+---
+
+Created by **Ananya Kumar**
